@@ -3,36 +3,36 @@ App de streaming de vídeo estilo Netflix.
 
 
 
-:dart:**Justificativa**
+:dart:  **Justificativa**
 
 App desenvolvido com proposito de integrar API do Youtube em um app Expo e Native.
 
 
-:white_check_mark: **Tecnologias**
+:white_check_mark:   **Tecnologias**
 
 - React Native
 - JavaScript
 
-:white_check_mark: **Freameworks:**
+:white_check_mark:   **Freameworks:**
 
 - Expo
 - npm
 - Axios
 
 
- :medal_sports:**Autores**
+ :medal_sports:  **Autores**
 | Foto                                                                                                                             | Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
 | <img src="./Doc/Eduardo.jpg"  >| Eduardo Silveira Ramos | [EdLoth](https://github.com/EdLoth) | [Linkedin](https://www.linkedin.com/in/eduardo-ramos-31413b1a2/) | contatoeduardo.dev@gmail.com
 
 
-:computer:**Arquitetura**
+:computer:  **Arquitetura**
 
 ![arquitetura](Doc/Dev.png)
 
 
 
-:clipboard:**Comandos**
+:clipboard:  **Comandos**
 
 * Instalar o Expo-cli
 
